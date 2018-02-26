@@ -17,6 +17,7 @@ Draw IO | SaaS for diagram creation.
 Electron Render Service | Service that converts HTML & URLs to images & PDFs.
 Jenkins | Continous Integration service.
 Minio | REST object storage service.
+MongoDB | NoSQL Database
 Nginx | Versatile web server.
 RabbitMQ Management | Message queue service with the management plugin.
 RabbitMQ | Message queue service.
